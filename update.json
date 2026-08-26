@@ -1,7 +1,7 @@
 {
-  "version": "0.1.247",
-  "version_code": 247,
+  "version": "0.1.248",
+  "version_code": 248,
   "apk_url": "https://github.com/WilleyWong/sitecasion-updates/releases/download/latest/carboot-accounting.apk",
-  "sha256": "3699c0ddf492fb29fca1eb6dd211d7f6cbc32c5eeca4753241788ba149d1869f",
+  "sha256": "43212fa3b0aa054db7eff0f718a973a761acf253fe0efa8e0b837a961737e32b",
   "notes": "Latest automatic build"
 }
