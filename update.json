@@ -1,7 +1,9 @@
 {
-  "version": "0.3.18",
-  "version_code": 1018,
-  "apk_url": "https://github.com/WilleyWong/sitecasion-updates/releases/download/latest/carboot-accounting.apk",
-  "sha256": "e835735e2033cf626c35d99e5a22f88161db2cfc5fcdd4c4558680391ff15012",
-  "notes": "LotUp"
+  "version": "0.3.24",
+  "version_code": 1024,
+  "apk_url": "https://github.com/WilleyWong/sitecasion-updates/releases/download/v0.3.24/LotUp-designer-0.3.24.apk",
+  "sha256": "0ee2d71fe100caa3eb557d517a37a3558852c3d75126b12d2c8625260897378e",
+  "notes": "LotUp · RU / EN",
+  "notes_ru": "Русский и английский интерфейс. Исправления фото, форм, навигации и обновлений.",
+  "notes_en": "Russian and English interface. Photo, form, navigation and update fixes."
 }
