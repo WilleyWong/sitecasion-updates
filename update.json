@@ -1,8 +1,8 @@
 {
-  "version": "0.3.25",
-  "version_code": 1025,
-  "apk_url": "https://github.com/WilleyWong/sitecasion-updates/releases/download/v0.3.25/LotUp-designer-0.3.25.apk",
-  "sha256": "2d5d1edcaa1ac64d0d3f032d8a7fdb73f3f6bddb296bc349d2c5b339a61be570",
+  "version": "0.3.26",
+  "version_code": 1026,
+  "apk_url": "https://github.com/WilleyWong/sitecasion-updates/releases/download/v0.3.26/LotUp-designer-0.3.26.apk",
+  "sha256": "3ce26f8ec07fc92f4b3cd39d189fafd40cb7610d0881d56300ed332352ff9432",
   "notes": "LotUp · RU / EN",
   "notes_ru": "Русский и английский интерфейс. Исправления фото, форм, навигации и обновлений.",
   "notes_en": "Russian and English interface. Photo, form, navigation and update fixes."
